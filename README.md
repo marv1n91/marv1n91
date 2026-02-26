@@ -1,16 +1,71 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**marv1n91/marv1n91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+marv1n91;Welcome+to+my+profile!" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+<!-- Animated wave divider -->
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<!-- Profile Views Counter -->
+
+</div>
+
+<!-- GitHub Stats Section -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=marv1n91&theme=tokyonight&hide_border=true&background=0D1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="Streak Stats" />
+
+<br/>
+
+
+</div>
+
+
+
+<!-- Snake Animation -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marv1n91/marv1n91/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marv1n91/marv1n91/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+---
+
+<!-- Discord Widget -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Discord
+
+<div align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/428848039193739265?theme=dark&bg=0D1117&animated=true&borderRadius=15px&idleMessage=Chilling...)](https://discord.com/users/428848039193739265)
+
+</div>
+
+<br/>
+
+---
+
+<!-- Steam Widget -->
+## 🎮 Steam
+
+<div align="center">
+
+[![Steam Profile](https://steam-widget.com/widget/img?id=marv1n_1337&gameList=TOP_GAMES_TOTAL&gameListSize=5&purpose=github_repo&width=500)](https://steamcommunity.com/id/marv1n_1337/)
+
+[![Steam](https://img.shields.io/badge/Steam-marv1n__1337-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/marv1n_1337/)
+
+</div>
+
+<br/>
+
+---
+
