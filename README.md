@@ -50,22 +50,5 @@
 
 </div>
 
-<br/>
 
----
-
-<!-- Steam Widget -->
-## 🎮 Steam
-
-<div align="center">
-
-[![Steam Profile](https://steam-widget.com/widget/img?id=marv1n_1337&gameList=TOP_GAMES_TOTAL&gameListSize=5&purpose=github_repo&width=500)](https://steamcommunity.com/id/marv1n_1337/)
-
-[![Steam](https://img.shields.io/badge/Steam-marv1n__1337-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/marv1n_1337/)
-
-</div>
-
-<br/>
-
----
 
