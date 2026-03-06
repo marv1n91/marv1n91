@@ -41,16 +41,7 @@
 
 <br/>
 
----
 
-<!-- Discord Widget -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Discord
-
-<div align="center">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/428848039193739265?theme=dark&bg=0D1117&animated=true&borderRadius=15px&idleMessage=Chilling...)](https://discord.com/users/428848039193739265)
-
-</div>
 
 
 
